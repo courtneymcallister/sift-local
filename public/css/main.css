@@ -61,10 +61,10 @@ body {
   border: 1px solid white;
 }
 
-.redstrip{
+.col-xs-1{
   float: left;
   height: 5vh;
   width: 4vw;
   border: 1px solid red;
-
+  padding: 0px;
 }
